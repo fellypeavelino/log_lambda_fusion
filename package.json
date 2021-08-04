@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/fellypeavelino/log_lambda_fusion.git"
   },
+  "keywords": ["fusion_dms"],
   "author": "fusion DMS",
   "license": "ISC",
   "bugs": {
