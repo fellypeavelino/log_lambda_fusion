@@ -1,0 +1,19 @@
+{
+  "name": "log_lambda_fusion",
+  "version": "1.0.0",
+  "description": "log para lambda do sistema fusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fellypeavelino/log_lambda_fusion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fellypeavelino/log_lambda_fusion/issues"
+  },
+  "homepage": "https://github.com/fellypeavelino/log_lambda_fusion#readme"
+}
